@@ -10,9 +10,7 @@ To run ThermoLabAnimal:
 
 If you use this software in your research please acknowledge ThermoLabAnimal publication:
 
-Franco N, Geros A, Oliveira L, Olsson A, Aguiar P, "ThermoLabAnimal – A high-throughput analysis software for non-invasive thermal assessment of laboratory mice", Physiology & Behavior. 2019 May 9
-
-DOI: <a href=https://doi.org/10.1016/j.physbeh.2019.05.004>10.1016/j.physbeh.2019.05.004</a>
+Franco N, Geros A, Oliveira L, Olsson A, Aguiar P, "ThermoLabAnimal – A high-throughput analysis software for non-invasive thermal assessment of laboratory mice", Physiology & Behavior. 2019 May 9. DOI: <a href=https://doi.org/10.1016/j.physbeh.2019.05.004>10.1016/j.physbeh.2019.05.004</a>
 
 For questions, suggestions, and bug reports send an email to pauloaguiar@ineb.up.pt
 
